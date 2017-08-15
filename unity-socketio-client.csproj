@@ -82,6 +82,7 @@
     <Compile Include="Assets\Scripts\Client\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Client\Respawn.cs" />
     <Compile Include="Assets\Scripts\Connection\ConnectButton.cs" />
+    <Compile Include="Assets\Scripts\Connection\ConnectManual.cs" />
     <Compile Include="Assets\Scripts\Connection\LoginController.cs" />
     <Compile Include="Assets\Scripts\Connection\PlayerUpdate.cs" />
     <Compile Include="Assets\Scripts\Connection\ServerBrowser.cs" />
